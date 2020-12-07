@@ -1,6 +1,6 @@
-.env
 /vendor
-composer.json
-composer.lock
+.env
 .env.enc
 .env.key
+composer.json
+composer.lock
