@@ -1,0 +1,29 @@
+.container{
+    text-align: center;
+    background-color: black;
+}
+.cred{
+    font-size:40px;
+    padding: 15px;
+
+}
+h4{
+    font-size: 60px;
+}
+#input{
+    height:45px;
+}
+.message label{
+    font-size:70px;
+}
+textarea{
+    height:45px;
+}
+#send{
+    height: 40px;
+    background-color: black;
+}
+h2{
+    font-size:60px;
+    
+}
